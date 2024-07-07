@@ -14,7 +14,7 @@ Bash Squad
 
 ## Ürün İsmi
 
---Movie App--
+--Fun Fiesta--
 
 ## Ürün Açıklaması
 
