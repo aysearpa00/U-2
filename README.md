@@ -56,9 +56,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Ürün Durumu**:
+- Ürünün konusu ve türü belirlendikten sonra oyun mekaniği tartışıldı.
+- Multi player ve single player oynanabilme seçenekleri eklenmesi planlandığı için oyunun mekaniği hakkında ilerleme kat edildi.
+- Oyun içerisinde kullanılabilecek assetler toplandı.
 
 - **Sprint Review**: 
 Alınan kararlar doğrultusunda, oyunumuzda Photon PUN eklentisini kullanmaya karar verdik. İlk olarak bir lobi sistemi oluşturduk. Oyunumuzda hem tek oyunculu (single player) hem de çok oyunculu (multi player) seçenekler mevcuttur ve üçüncü şahıs bakış açısıyla oynanır. Oyun kurucu, bir oda kurar ve diğer oyuncular bu odaya katılır. Oyuncu sayısı iki ile sınırlandırılmıştır. Bu eklenti ile sunucu ve istemci arasında oyuncuların hareketlerini senkronize ettik. Şu anda oyuncular birbirlerine ateş ederek birbirlerinin can seviyesini düşürmektedirler. Can seviyesi belirli bir seviyenin altına düştüğünde, oyuncu oyundan çıkarılmaktadır.
@@ -67,6 +68,3 @@ Alınan kararlar doğrultusunda, oyunumuzda Photon PUN eklentisini kullanmaya ka
   - Takım içi iletişim ve senkronizasyon daha etkin olabilirdi. Bir sonraki sprint başlangıcından itibaren iletişim kanallarının etkili şekilde kullanılması hedeflendi.
   - Ekibimizde multiplayer geliştirme deneyimi olan birinin bulunmaması nedeniyle, öncesinde daha detaylı bir kaynak araştırması yapılabilirdi.
   - Oyunun fonksiyonları ve oynanışı üzerinde yoğun şekilde çalışılmış ve fikir alışverişi yapılmış olsa da, oyun hikayesine de daha fazla önem verilebilirdi. Bir sonraki adımda oyun hikayesi üzerinde geliştirmeler yapılabilir.
-
--**Diğer Notlar**:
-- N/A
