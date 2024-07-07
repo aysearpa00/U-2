@@ -46,11 +46,10 @@ Bash Squad
 
 - **Daily Scrum**: Daily Scrum toplantıları discord ve whatsapp üzerinden sesli ve/veya yazılı olarak gerçekleştirilmiştir. Projenin ilerleyişine dair bireysel çalışmalar gözden geçirilip not edilmiştir ve birleştirilmiştir.
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Ekran görüntüsü 2024-07-07 231353](https://github.com/aysearpa00/U-2/assets/159146551/ca82ee7d-6da3-4863-96e5-9622659a5445)
-![Ekran görüntüsü 2024-07-07 231604](https://github.com/aysearpa00/U-2/assets/159146551/109c3f4e-f7f0-4247-84a1-48fe7c5a3666)
-![Ekran görüntüsü 2024-07-07 231541](https://github.com/aysearpa00/U-2/assets/159146551/c9888892-bc8f-42f5-a55d-486d811444a5)
-
+- **Sprint board update**: Sprint board screenshotları:
+![Ekran görüntüsü 2024-07-07 232459](https://github.com/aysearpa00/U-2/assets/159146551/8ad1df71-ac31-4083-a23c-610b5b8929e3)
+![Ekran görüntüsü 2024-07-07 232445](https://github.com/aysearpa00/U-2/assets/159146551/d753a868-e606-4aa0-a126-a842de7da965)
+![Ekran görüntüsü 2024-07-07 232517](https://github.com/aysearpa00/U-2/assets/159146551/0df9a51f-bedd-44fe-86d9-e95f01707c01)
 
 - **Ürün Durumu**:
 - Ürünün konusu ve türü belirlendikten sonra oyun mekaniği tartışıldı.
