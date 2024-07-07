@@ -41,19 +41,16 @@ Bash Squad
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
 - **Backlog düzeni **: Backlogumuz oyunu geliştime aşamasında geçmeyi planladığımız alt başlıklara göre düzenlenmiştir. Bunlar ilerleme durumumuz ile pararlel olmakla birlikte şu an fikirler/kod/tasarım olarak üçe ayrılmıştır. Bu süreç içerisinde ihtiyacımız olan fikirler beyin fırtınası yapmak amacıyla sunum halinde düzenlenmiştir.
 - Oyun geliştirme sürecimizin temel iki bileşeni olan kodlama ve tasarım süreçleri iki ayrı segmentte kendi içerisinde ilerletilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantıları discord ve whatsapp üzerinden sesli ve/veya yazılı olarak gerçekleştirilmiştir. Projenin ilerleyişine dair bireysel çalışmalar gözden geçirilip not edilmiştir ve birleştirilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Ekran görüntüsü 2024-07-07 231353](https://github.com/aysearpa00/U-2/assets/159146551/ca82ee7d-6da3-4863-96e5-9622659a5445)
+![Ekran görüntüsü 2024-07-07 231604](https://github.com/aysearpa00/U-2/assets/159146551/109c3f4e-f7f0-4247-84a1-48fe7c5a3666)
+![Ekran görüntüsü 2024-07-07 231541](https://github.com/aysearpa00/U-2/assets/159146551/c9888892-bc8f-42f5-a55d-486d811444a5)
+
 
 - **Ürün Durumu**:
 - Ürünün konusu ve türü belirlendikten sonra oyun mekaniği tartışıldı.
